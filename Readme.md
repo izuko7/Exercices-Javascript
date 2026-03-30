@@ -11,4 +11,4 @@ Séance d'exercice
 [solution ici](./square.js)
 
 ## Exercice4
-[solution ici](./multiply.js)
+[solution ici](./add.js)
