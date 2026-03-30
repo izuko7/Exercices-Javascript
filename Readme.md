@@ -9,3 +9,6 @@ Séance d'exercice
 
 ## Exercice3
 [solution ici](./square.js)
+
+## Exercice4
+[solution ici](./multiply.js)
