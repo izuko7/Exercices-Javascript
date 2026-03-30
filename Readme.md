@@ -12,3 +12,6 @@ Séance d'exercice
 
 ## Exercice4
 [solution ici](./add.js)
+
+## Exercice5
+[solution ici](./multiply.js)
