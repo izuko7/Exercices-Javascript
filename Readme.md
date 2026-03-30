@@ -6,3 +6,6 @@ Séance d'exercice
 
 ## Exercice2
 [solution ici](./doubleNumber.js)
+
+## Exercice3
+[solution ici](./square.js)
