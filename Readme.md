@@ -15,3 +15,6 @@ Séance d'exercice
 
 ## Exercice5
 [solution ici](./multiply.js)
+
+## Exercice6
+[solution ici](./iseven.js)
