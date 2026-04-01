@@ -1,5 +1,5 @@
 function identity(x){
-    let r = x
+    
     return x
 }
 

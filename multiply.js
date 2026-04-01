@@ -1,6 +1,6 @@
 function add(a,b){
-    let result = a*b;
-    return result
+
+    return a*b;
 }
 
 add(3,4)
