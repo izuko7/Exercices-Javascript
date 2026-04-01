@@ -32,7 +32,6 @@ Séance d'exercice
 [solution ici](./min_list.js)
 
 ## Exercice11
-[solution ici](./stringlength.js)## Exercice11
 [solution ici](./stringlength.js)
 
 ## Exercice12
