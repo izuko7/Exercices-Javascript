@@ -2,12 +2,16 @@
 Séance d'exercice
 
 ## Exercice1
+    `Écrire une fonction nommée identity(x) qui retourne la valeur reçue. Exemple : identity([1,2,3]) -> [1,2,3]`
 [solution ici](./identity.js) 
 
 ## Exercice2
+    `Écrire une fonction nommée double_number(n) qui retourne le double du nombre. Exemple double_number(4) -> 8`
 [solution ici](./doubleNumber.js)
 
 ## Exercice3
+    `Écrire une fonction nommée square(n) qui retourne le carré du nombre. Exemple :
+    square(5) -> 25`
 [solution ici](./square.js)
 
 ## Exercice4
@@ -40,5 +44,15 @@ Séance d'exercice
 ## Exercice13
 [solution ici](./greet.js)
 
-## Exercice13
+## Exercice14
 [solution ici](./multiplication_table.js)
+
+## Exercice15
+    `Écrire une fonction nommée sum_until(n) qui retourne la somme des nombres de 1 à
+    n.`
+[solution ici](./sum_until.js)
+
+## Exercice16
+    `Écrire une fonction nommée filter_even(numbers) qui retourne une liste de nombres
+    pairs.`
+[solution ici](./filter_even.js)

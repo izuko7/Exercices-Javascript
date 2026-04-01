@@ -6,4 +6,4 @@ function is_even(n){
     } 
 }
 
-console.log(is_even(9))
+console.log(is_even(6))
