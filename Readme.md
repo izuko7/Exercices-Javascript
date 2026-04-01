@@ -37,3 +37,6 @@ Séance d'exercice
 
 ## Exercice12
 [solution ici](./to_uppercase.js)
+
+## Exercice13
+[solution ici](./greet.js)
