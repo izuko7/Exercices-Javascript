@@ -40,3 +40,6 @@ Séance d'exercice
 
 ## Exercice13
 [solution ici](./greet.js)
+
+## Exercice13
+[solution ici](./multiplication_table.js)
