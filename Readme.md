@@ -18,3 +18,9 @@ Séance d'exercice
 
 ## Exercice6
 [solution ici](./iseven.js)
+
+## Exercice7
+[solution ici](./ispositive.js)
+
+## Exercice8
+[solution ici](./sum_list.js)
