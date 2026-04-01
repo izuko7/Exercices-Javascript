@@ -56,3 +56,8 @@ Séance d'exercice
     `Écrire une fonction nommée filter_even(numbers) qui retourne une liste de nombres
     pairs.`
 [solution ici](./filter_even.js)
+
+## Exercice17
+    `Écrire une fonction nommée square_list(numbers) qui retourne une liste contenant les
+    carrés.`
+[solution ici](./square.js)
