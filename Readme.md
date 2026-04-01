@@ -30,3 +30,6 @@ Séance d'exercice
 
 ## Exercice10
 [solution ici](./min_list.js)
+
+## Exercice11
+[solution ici](./stringlength.js)
