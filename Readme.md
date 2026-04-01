@@ -27,3 +27,6 @@ Séance d'exercice
 
 ## Exercice9
 [solution ici](./max_list.js)
+
+## Exercice10
+[solution ici](./min_list.js)
