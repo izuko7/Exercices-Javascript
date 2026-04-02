@@ -1,0 +1,1 @@
+console.log(sqaure_list([1,2,4,89,20]))
