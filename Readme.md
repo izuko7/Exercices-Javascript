@@ -70,3 +70,7 @@ Séance d'exercice
 ## Exercice19
     `Écrire une fonction nommée max_of_two(a, b) qui retourne le plus grand nombre.`
 [solution ici](./max_of_two.js)
+
+## Exercice20
+    `Écrire une fonction nommée inverse_number(n) qui retourne l'inverse nombre.`
+[solution ici](./max_of_two.js)
