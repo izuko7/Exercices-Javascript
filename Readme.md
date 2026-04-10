@@ -73,4 +73,8 @@ Séance d'exercice
 
 ## Exercice20
     `Écrire une fonction nommée inverse_number(n) qui retourne l'inverse nombre.`
-[solution ici](./max_of_two.js)
+[solution ici](./inverse_number.js)
+
+## Exercice21
+    `Écrire une fonction nommée palindrome(word) qui dit si un mot est un palindrome.`
+[solution ici](./palindrome.js)
